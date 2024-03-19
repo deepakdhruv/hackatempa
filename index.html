@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Catalog</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div id="search-form">
+            <div class="head"><h1>Nightrider's Catalog</h1></div>
+            <div class="right">
+                <div class="inpot">
+                    <div class="inpo"><input type="text" id="searchInput" placeholder="Search by name..."></div>
+                <div class="inpo"><button class="voice" "button" id="voice-search-button">Voice Search</button></div>
+                <div class="inpo inpo2"><input type="text" id="imageUrl" placeholder="Search by image URL...">
+                    <button onclick="descriptio(),tags(),analyzeImage()" class="analy">Analyze Image</button>
+                    <div id="result"></div></div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="cont" style="display: flex;">
+        <div class="lefti"><img src="" id="imga" alt=""></div>
+        <div class="righti"><div id="tags"></div>
+        <div id="description"></div></div>
+    </div>
+
+    <div id="catalogs"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

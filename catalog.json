@@ -1,0 +1,126 @@
+[
+    {
+        "name": "",
+        "products": [
+            {
+                "name": "STONEBERG Shirt ",
+                "description": "Men Slim Fit Solid Spread Collar Formal Shirt",
+                "price": "₹379",
+                "images": ["product3_1.jpg", "product3_2.jpg", "product3_3.jpg"]
+            },
+            {
+                "name": "Surhi  Shirt ",
+                "description": "Men Regular Fit Checkered Spread Collar Casual Shirt",
+                "price": "₹299",
+                "images": ["product5_1.jpg", "product5_2.jpg", "product5_3.jpg"]
+            },
+            {
+                "name": "Calvin Klein Shirt ",
+                "description": "Men Relaxed Fit Fit Solid Spread Collar Casual Shirt",
+                "price": "₹5,519",
+                "images": ["product6_1.jpg", "product6_2.jpg", "product6_3.jpg"]
+            }
+
+
+
+        ]
+    },
+    {
+        "name": "",
+        "products":[
+            {
+                "name": "Red Tape Shoes Footwear",
+                "description": "Red Tape Sneaker Casual Shoes for Men's | Soft Cushion Insole, Slip-Resistance, Dynamic Feet Support, Arch Support & Perfect for Casual Wear",
+                "price": "₹1,159",
+                "images": ["product1-a.jpg", "product1-b.jpg", "product1-c.jpg"]
+            },
+            {
+                "name": "NIKE Mens Revolution 7Running Shoes Footwear ",
+                "description": "Upper Material-Syntheti Outersole material-Rubber",
+                
+                "price": "₹2,924",
+                "images": ["product2_1.jpg", "product2_2.jpg", "product2_3.jpg"]
+            },
+            {
+                "name": "adidas Mens Enry Flux M Running Shoes Footwear",
+                "description": "Midsole with energetic and highly responsive cushioning and bounce for an efficient ride. ",
+                "price": "₹3,119",
+                "images": ["product4_1.jpg", "product4_2.jpg", "product4_3.jpg"]
+            }
+        ]
+    },
+    {
+        "name": "",
+        "products":[
+            {
+                "name": "Motorola G34 5G (Ocean Green) mobile phone",
+                "description": "Look no further than the amazing Moto G34 5G smartphone",
+                "price": "₹11,999",
+                "images": ["product7_1.jpg", "product7_2.jpg", "product7_3.jpg"]
+            },
+            {
+                "name": "Apple iPhone 14 Mobile phone",
+                "description": "A15 Bionic Chip, 6 Core Processor Processor",
+                "price": "₹58,999",
+                "images": ["product8_1.jpg", "product8_2.jpg", "product8_3.jpg"]
+            },
+            {
+                "name": "SAMSUNG Galaxy S24 Ultra 5G  Mobile phone",
+                "description": "Behold the Samsung Galaxy S24 Ultra smartphone, an exceptional amalgamation of incredible technology",
+                "price": "₹1,29,999",
+                "images": ["product9_1.jpg", "product9_2.jpg", "product9_3.jpg"]
+            }
+        ]},
+        {
+            "name": "",
+            "products":[
+                {
+                    "name":"Fossil Sullivan Analog Watch ",
+                    "description": "Case size: 44mm; Band size: 24mm; quartz movement with analog display; mineral crystal face",
+                    "price": "₹8,995",
+                    "images": ["product25_1.jpg", "product25_2.jpg", "product25_3.jpg"]
+    
+                },
+                {
+                    "name":"Fossil Analog Off-White Dial Men's Watch  ",
+                    "description": "The Commuter by Fossil is a timeless piece for those who value the little luxuries in life",
+                    "price": "₹7,995",
+                    "images": ["product24_1.jpg", "product24_2.jpg", "product24_3.jpg"]
+    
+                },
+                {
+                    "name":"NIBOSI Men's Watches Analog Watch ",
+                    "description": "Perfect for any outfit and any occasion, this unique business casual watch allows you to easily spice up your outfit and add style to your life",
+                    "price": "₹3,099",
+                    "images": ["product26_1.jpg", "product26_2.jpg", "product26_3.jpg"]
+    
+                }
+                
+            ]
+        },
+        {
+            "name":"",
+            "products":[
+                {
+                    "name":"Samsung 236 L Refrigerator Home appliance",
+                    "description": "Samsung 236 L, 3 Star, Digital Inverter, Frost Free Double Door Refrigerator",
+                    "price": "₹24,990",
+                    "images": ["product21_1.jpg", "product21_2.jpg", "product21_3.jpg"]
+                },
+                {
+                    "name":"LG 242 L Refrigerator Home appliance",
+                    "description": "LG 242 L 3 Star Smart Inverter Frost-Free Double Door Refrigerator Frost-Free Refrigerators",
+                    "price": "₹25,990",
+                    "images": ["product22_1.jpg", "product22_2.jpg", "product22_3.jpg"]
+                },
+                {
+                    "name":"Haier 325 L Refrigerator Home appliance ",
+                    "description": "Frost Free Refrigerator: Auto defrost function to prevent ice build-up",
+                    "price": "₹34,990",
+                    "images": ["product23_1.jpg", "product23_2.jpg", "product23_3.jpg"]
+                }
+            ]
+        }
+    
+
+]
